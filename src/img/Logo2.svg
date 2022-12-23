@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="Logo2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.24725375"
+     inkscape:cx="3482.2526"
+     inkscape:cy="1646.0822"
+     inkscape:window-width="2560"
+     inkscape:window-height="1506"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g129"
+       transform="matrix(9.9899999,0,0,0.99899899,-449.5,0.05002487)"
+       style="stroke-width:0.316544">
+      <rect
+         id="rect0"
+         width="100"
+         height="100"
+         x="0"
+         y="0"
+         ry="5.0050101"
+         rx="0.5005005"
+         fill="#ffffff"
+         stroke="#ffffff"
+         style="stroke-width:0.10015" />
+    </g>
+    <rect
+       id="rect1"
+       width="976.58154"
+       height="76.581573"
+       x="-438.29077"
+       y="11.709215"
+       ry="5"
+       rx="5"
+       fill="#ffffff"
+       stroke="#000000"
+       style="stroke-width:1" />
+    <rect
+       id="rect2"
+       width="958.99994"
+       height="59"
+       x="-429.49991"
+       y="20.5"
+       ry="3.9999998"
+       rx="3.9999998"
+       fill="#ffffff"
+       stroke="#ffd700"
+       style="stroke-width:1" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Belgium;-inkscape-font-specification:Belgium;fill:#000000;stroke-width:0.132292"
+       x="-24.96937"
+       y="58.929913"
+       id="text376"><tspan
+         sodipodi:role="line"
+         id="tspan374"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Belgium;-inkscape-font-specification:Belgium;stroke-width:0.132292"
+         x="-24.96937"
+         y="58.929913">Sean Penn</tspan></text>
+  </g>
+</svg>

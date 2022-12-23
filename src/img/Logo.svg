@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.98901497"
+     inkscape:cx="-97.066276"
+     inkscape:cy="63.699744"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="105"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g129">
+      <rect
+         id="rect0"
+         width="100"
+         height="100"
+         x="0"
+         y="0"
+         ry="5"
+         rx="5"
+         fill="white"
+         stroke="white" />
+    </g>
+    <rect
+       id="rect1"
+       width="80"
+       height="80"
+       x="10"
+       y="10"
+       ry="5"
+       rx="5"
+       fill="white"
+       stroke="black" />
+    <rect
+       id="rect2"
+       width="72"
+       height="72"
+       x="14"
+       y="14"
+       ry="4"
+       rx="4"
+       fill="white"
+       stroke="gold" />
+    <text
+       style="font-size:14.111111px;fill:#000000;stroke-width:0.132292;-inkscape-font-specification:Belgium;font-family:Belgium;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="28"
+       y="60"
+       id="text376"><tspan
+         sodipodi:role="line"
+         id="tspan374"
+         style="stroke-width:0.132292;-inkscape-font-specification:Belgium;font-family:Belgium;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:30px"
+         x="28"
+         y="60">S P</tspan></text>
+  </g>
+</svg>
