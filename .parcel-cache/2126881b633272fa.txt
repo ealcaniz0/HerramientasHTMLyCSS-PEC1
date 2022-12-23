@@ -1,5 +1,5 @@
-6778
-75C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist133162922097712507 1
+6779
+75C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist133162925949247913 1
 108C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\abortcontroller-polyfill133161036917750444 1
 108C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2022\Type.js133137118905040264 0
 88C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\src\img\emoji.png133161884441213839 0
@@ -106,12 +106,12 @@
 123C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\normalize-package-data\lib\normalize.js133137118887508966 0
 132C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2017\AbstractRelationalComparison.js133137118891274602 0
 88C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\src\detalle6.html133162921489512597 0
-105C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle1vertical.d932f41d.jpg133162922086362253 0
+105C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle1vertical.d932f41d.jpg133162925931469932 0
 87C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\src\enlaces.html133162921633110487 0
 97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\escalade\sync133161036968090692 1
 120C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\ideal-image-slider\example\img\2.jpg133137509450430960 0
 130C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\node-gyp-build-optional-packages\build-test.js133137118884776584 0
-78C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\src\img133162920129520650 1
+78C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\src\img133162924926645513 1
 109C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\resolve\test\node_path.js133137118893132833 0
 102C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\is-regex\README.md133137118888162451 0
 115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\caniuse-lite\data\regions\SK.js133137118900134181 0
@@ -127,7 +127,7 @@
 115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\caniuse-lite\data\regions\GW.js133137118896650296 0
 111C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2021\WeekDay.js133137118905409932 0
 112C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\resolve\test\node_path\y\bbb133161036986520148 1
-85C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\src\index.html133162920261775004 0
+85C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\src\index.html133162925588536392 0
 104C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\resolve\test\mock.js133137118893061836 0
 108C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\is-number-object\.github133161036974307699 1
 108C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\load-json-file\readme.md133137118885503988 0
@@ -272,14 +272,16 @@
 107C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\mdn-data\css\units.json133137118890540169 0
 120C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\string.prototype.padend\CHANGELOG.md133137118889100803 0
 91C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\src\img\portada1.jpg133137582565612826 0
+155C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@babel\helper-validator-identifier\scripts\generate-identifier-regex.js133137118888263144 0
+93C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\src\img\portada1cp.png133162924926655267 0
 102C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\ideal-image-slider133161036972114999 1
 139C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@babel\highlight\node_modules\color-name\.eslintrc.json133137118887044590 0
 110C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@lezer\lr\dist\decode.d.ts133137118887691591 0
 91C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\src\img\portada2.jpg133137584018097354 0
-100C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\term-size\vendor133161037000373870 1
-91C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\src\img\portada3.jpg133137584594570027 0
 97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\object.assign133161036983041770 1
 122C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\terser\lib\utils\first_in_statement.js133137118891019629 0
+91C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\src\img\portada3.jpg133137584594570027 0
+100C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\term-size\vendor133161037000373870 1
 139C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-bdb.txt133137118894310821 0
 114C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\yaml\browser\dist\package.json133137118892279466 0
 91C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\src\img\portada4.jpg133137586003265844 0
@@ -327,11 +329,11 @@
 115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\caniuse-lite\data\regions\MA.js133137118898001851 0
 108C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\npm-run-all\node_modules133137118869001629 1
 88C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@swc133137118869001629 1
+95C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\buffer-from133161036918717208 1
+121C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\has-tostringtag\test\shams\core-js.js133137118885247032 0
 115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\string.prototype.trimstart\test133161036991859997 1
 109C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\shebang-command\readme.md133137118885503988 0
 90C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@types133137118869001629 1
-95C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\buffer-from133161036918717208 1
-121C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\has-tostringtag\test\shams\core-js.js133137118885247032 0
 130C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\nested133161036904112524 1
 95C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\ansi-styles133161036918188937 1
 112C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\electron-to-chromium\LICENSE133137118883206850 0
@@ -865,8 +867,6 @@
 117C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2016\ToPropertyKey.js133137118904628019 0
 100C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\domutils\LICENSE133137118883200117 0
 123C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2021\IsBigIntElementType.js133137118897526436 0
-130C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\caniuse-lite\data\features\devicepixelratio.js133137118895486970 0
-115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\cosmiconfig\dist\loaders.js.map133137118890425836 0
 128C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\utility-types\dist\aliases-and-guards.js.map133137118887400979 0
 133C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\string.prototype.trimstart\test\implementation.js133137118887054522 0
 127C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\caniuse-lite\data\features\css-when-else.js133137118895091979 0
@@ -1089,7 +1089,7 @@
 106C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\yaml\dist\parse-cst.js133137118890116743 0
 153C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased\index.js133137118891189704 0
 116C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\yaml\dist\PlainValue-ec8e588e.js133137118890480472 0
-97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle3.41e7afbb.jpg133162922096559614 0
+97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle3.41e7afbb.jpg133162925948137765 0
 103C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\terser\lib\scope.js133137118892357505 0
 112C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\string.prototype.padend\test133161036991341683 1
 115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\define-properties\.editorconfig133137118883187883 0
@@ -1113,7 +1113,7 @@
 137C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\transformer-js\parcel-swc.linux-x64-musl.node133137118900003618 0
 116C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\function.prototype.name\index.js133137118888072752 0
 104C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\yaml\browser\pair.js133137118889256217 0
-90C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\categoria.html133162922097424050 0
+90C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\categoria.html133162925949092503 0
 125C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\node-gyp-build-optional-packages\index.js133137118885503988 0
 127C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\core\test\fixtures\config-malformed133161036901617696 1
 104C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\is-weakref\.eslintrc133137118883803803 0
@@ -1766,7 +1766,7 @@
 110C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\is-boolean-object\index.js133137118886582928 0
 97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\escalade\dist133161036968040864 1
 126C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\supports-preserve-symlinks-flag\browser.js133137118885503988 0
-99C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\animacion1.4b352a05.svg133162922090538658 0
+99C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\animacion1.4b352a05.svg133162925935843306 0
 128C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\supports-preserve-symlinks-flag\CHANGELOG.md133137118887405945 0
 120C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\string.prototype.padend\package.json133137118888959670 0
 122C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@swc\helpers\src\_array_with_holes.mjs133137118893529675 0
@@ -1946,7 +1946,7 @@
 126C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2020\OrdinaryGetOwnProperty.js133137118900902577 0
 113C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\regexp.prototype.flags\.nycrc133137118884776584 0
 110C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\source-map\source-map.d.ts133137118889256217 0
-97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle1.fae3fe11.jpg133162922089716781 0
+97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle1.fae3fe11.jpg133162925935213838 0
 108C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\source-map\source-map.js133137118885669341 0
 106C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\import-fresh\readme.md133137118885503988 0
 139C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@swc\helpers\src\_class_static_private_field_update.mjs133137118893998349 0
@@ -1981,7 +1981,7 @@
 121C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\runtime-js\src\helpers\worker133161036908882191 1
 105C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\object.assign\auto.js133137118889751981 0
 105C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\side-channel\index.js133137118886045562 0
-98C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.4c7326b5.css.map133162922097553041 0
+98C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.4c7326b5.css.map133162925949237474 0
 127C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\node-resolver-core\test\resolver.js133137118893217042 0
 104C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\pidtree\package.json133137118887867727 0
 105C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\shell-quote\.eslintrc133137118883019604 0
@@ -2001,7 +2001,6 @@
 136C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\dom-serializer\node_modules\entities\lib\decode.d.ts133137118889382347 0
 112C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2016\MakeTime.js133137118899840815 0
 107C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\shell-quote\test\env.js133137118886772339 0
-96C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\posthtml\lib133161036984546751 1
 115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\caniuse-lite\data\regions\LI.js133137118897817640 0
 118C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2021\NumberToBigInt.js133137118900433841 0
 110C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2020\ToInt8.js133137118904105698 0
@@ -2091,7 +2090,7 @@
 107C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\object-keys\.travis.yml133137118885503988 0
 105C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\resolve\.editorconfig133137118883019604 0
 133C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\resolve\test\resolver\incorrect_main\package.json133137118893685897 0
-97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\portada4.501a3dc2.jpg133162922096559614 0
+97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\portada4.501a3dc2.jpg133162925948137765 0
 131C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@swc\helpers\src\_skip_first_generator_next.mjs133137118894467057 0
 126C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\caniuse-lite\data\features\font-kerning.js133137118896238063 0
 128C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\ideal-image-slider\ideal-image-slider.min.js133137509444838895 0
@@ -2174,7 +2173,7 @@
 132C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\resolve\test\resolver\symlinked\_\symlink_target133161036988670663 1
 110C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\lmdb\util\RangeIterable.js133137118893998349 0
 141C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\resolve\test\resolver\symlinked\_\symlink_target\.gitkeep133137118885503988 0
-97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\portada5.e2921cde.jpg133162922094804504 0
+97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\portada5.e2921cde.jpg133162925940420984 0
 130C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\caniuse-lite\data\features\css-font-palette.js133137118894467057 0
 137C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\resolve\test\resolver\symlinked\_\node_modules\foo.js133137118890897064 0
 120C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\resolve\test\resolver\same_names\foo133161036988590933 1
@@ -2376,6 +2375,7 @@
 113C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\call-bind\.github\FUNDING.yml133137118888535204 0
 126C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\caniuse-lite\data\features\css-counters.js133137118894310821 0
 126C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\posthtml-parser\dist\location-tracker.d.ts133137118887867727 0
+96C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\posthtml\lib133161036984546751 1
 131C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\fs-search\fs-search.win32-x64-msvc.node133137118892075772 0
 101C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\csso\dist\csso.js133137118890265204 0
 134C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.c133137118890650010 0
@@ -2766,8 +2766,6 @@
 111C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\npm-run-all\lib\run-task.js133137118890595381 0
 111C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\htmlnano\lib\presets\max.js133137118888959670 0
 112C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\npm-run-all\lib\run-tasks.js133137118890679812 0
-133C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\runtime-js\src\helpers\node\css-loader.js133137118889049658 0
-117C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\has-property-descriptors\index.js133137118885503988 0
 112C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\npm-run-all\docs\node-api.md133137118889473118 0
 109C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\npm-run-all\docs\run-s.md133137118889775511 0
 105C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\npm-run-all\bin\run-s133161036980743142 1
@@ -2949,7 +2947,7 @@
 129C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2018\OrdinaryDefineOwnProperty.js133137118900746301 0
 117C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\htmlnano\docs\docs\040-presets.md133137118892656239 0
 107C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\load-json-file\index.js133137118883803803 0
-105C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle3vertical.5e738b80.jpg133162922089716781 0
+105C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle3vertical.5e738b80.jpg133162925935213838 0
 135C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\caniuse-lite\data\features\link-rel-dns-prefetch.js133137118897817640 0
 106C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\load-json-file\license133137118884933127 0
 111C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\load-json-file\node_modules133137118869001629 1
@@ -2982,7 +2980,7 @@
 124C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\ideal-image-slider\example\captions.html133137509444838895 0
 111C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\events\lib\types.js133137118887907605 0
 101C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\lmdb\node_modules133137118869001629 1
-93C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\presentacion.html133162922097424050 0
+93C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\presentacion.html133162925949092503 0
 98C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\lmdb\README.md133137118894154598 0
 100C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\lmdb\SECURITY.md133137118894154598 0
 92C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\lmdb\src133161036978321285 1
@@ -3103,7 +3101,7 @@
 109C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\is-boolean-object\.github133161036973350863 1
 100C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\inherits\LICENSE133137118885503988 0
 115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2018\ToPrimitive.js133137118904466931 0
-89C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle5.html133162922097424050 0
+89C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle5.html133162925949105824 0
 135C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.1133137118890172010 0
 133C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\transformer-js\parcel-swc.darwin-x64.node133137118895248218 0
 135C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.c133137118891649131 0
@@ -3167,7 +3165,7 @@
 131C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\core\test\fixtures\plugins\node_modules133137118893217042 1
 114C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2022\TimeString.js133137118903633154 0
 105C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\json5\lib\register.js133137118887468754 0
-88C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\enlaces.html133162922097424050 0
+88C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\enlaces.html133162925949102931 0
 104C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\json5\lib\require.js133137118887757324 0
 134C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\transformer-babel\lib\remapAstLocations.js133137118889196479 0
 106C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\json5\lib\unicode.d.ts133137118889884504 0
@@ -3500,6 +3498,8 @@
 115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\has-property-descriptors\.nycrc133137118883803803 0
 121C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\has-property-descriptors\CHANGELOG.md133137118887089297 0
 118C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2015\CharacterRange.js133137118894154598 0
+133C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\runtime-js\src\helpers\node\css-loader.js133137118889049658 0
+117C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\has-property-descriptors\index.js133137118885503988 0
 112C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-to-primitive\CHANGELOG.md133137118888878139 0
 121C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\has-property-descriptors\package.json133137118886701323 0
 113C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-to-primitive\test\index.js133137118888349472 0
@@ -3682,7 +3682,7 @@
 100C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2022133161036965311918 1
 145C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\optimizer-image\parcel-image.linux-arm-gnueabihf.node133137118892235527 0
 108C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\CHANGELOG.md133137118905521602 0
-93C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.2d13f705.js133162922097424050 0
+93C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.2d13f705.js133162925949092503 0
 105C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\es2016.js133137118895721530 0
 105C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\es2017.js133137118895731477 0
 105C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\es2019.js133137118895751331 0
@@ -4522,7 +4522,7 @@
 128C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\runtime-js\src\helpers\bundle-url.js133137118887024721 0
 107C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2018\abs.js133137118889834850 0
 130C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2018\AbstractEqualityComparison.js133137118890784113 0
-98C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.937634fb.css.map133162922097553041 0
+98C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.937634fb.css.map133162925949217587 0
 132C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2018\AbstractRelationalComparison.js133137118891337585 0
 115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2018\ArrayCreate.js133137118892850199 0
 117C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2016\IteratorValue.js133137118899555509 0
@@ -4552,7 +4552,7 @@
 124C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2018\IsAccessorDescriptor.js133137118897370186 0
 111C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2018\IsArray.js133137118897526436 0
 111C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2018\ToInt16.js133137118903945962 0
-97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.2d13f705.js.map133162922097553041 0
+97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.2d13f705.js.map133162925949217587 0
 125C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\packager-html\src\HTMLPackager.js133137118885448011 0
 134C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\es-abstract\2018\IsCompatiblePropertyDescriptor.js133137118897712204 0
 135C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.umd.js133137118884641689 0
@@ -4900,10 +4900,10 @@
 98C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\domhandler\lib133161036938735085 1
 102C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\domhandler\LICENSE133137118883187883 0
 104C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\domhandler\readme.md133137118887277233 0
-93C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.9f2946bc.js133162922097424050 0
+93C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.9f2946bc.js133162925949092503 0
 115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\watcher\src\Debounce.hh133137118889839811 0
 109C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\domhandler\lib\index.d.ts133137118887597221 0
-97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.9f2946bc.js.map133162922097553041 0
+97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.9f2946bc.js.map133162925949217587 0
 113C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\domhandler\lib\index.d.ts.map133137118886387154 0
 107C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\domhandler\lib\index.js133137118884467740 0
 108C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\domhandler\lib\node.d.ts133137118887962274 0
@@ -5050,7 +5050,7 @@
 113C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\packager-html\LICENSE133137118883321789 0
 120C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\css-tree\lib\syntax\config\parser.js133137118893685897 0
 119C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\css-tree\lib\syntax\atrule\index.js133137118892964053 0
-101C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\presentacion.ebb904ed.jpg133162922094804504 0
+101C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\presentacion.ebb904ed.jpg133162925940420984 0
 112C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\workers\src\child.js133137118887282198 0
 118C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\css-tree\lib\syntax\atrule\page.js133137118893685897 0
 113C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\css-tree\lib\parser\create.js133137118890293998 0
@@ -5111,6 +5111,8 @@
 123C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\cosmiconfig\dist\getPropertyByPath.d.ts133137118891283601 0
 115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\utils\src\getRootDir.js133137118890333701 0
 117C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\cosmiconfig\dist\loaders.d.ts.map133137118890318804 0
+130C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\caniuse-lite\data\features\devicepixelratio.js133137118895486970 0
+115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\cosmiconfig\dist\loaders.js.map133137118890425836 0
 114C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\cosmiconfig\dist\readFile.d.ts133137118891489263 0
 118C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\cosmiconfig\dist\readFile.d.ts.map133137118890525267 0
 112C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\chrome-trace-event\README.md133137118886269392 0
@@ -5206,7 +5208,7 @@
 115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\caniuse-lite\data\regions\BY.js133137118893373440 0
 115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\caniuse-lite\data\regions\BZ.js133137118893373440 0
 115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\caniuse-lite\data\regions\CA.js133137118893373440 0
-105C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle5vertical.637200c0.jpg133162922089716781 0
+105C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle5vertical.637200c0.jpg133162925935213838 0
 115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\caniuse-lite\data\regions\CD.js133137118893529675 0
 120C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@jridgewell\gen-mapping\src\types.ts133137118888959670 0
 115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\caniuse-lite\data\regions\CF.js133137118893529675 0
@@ -5326,7 +5328,7 @@
 115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\caniuse-lite\data\regions\SG.js133137118900003618 0
 115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\caniuse-lite\data\regions\SH.js133137118900003618 0
 115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\caniuse-lite\data\regions\SL.js133137118900134181 0
-98C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.af68a95b.css.map133162922097553041 0
+98C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.af68a95b.css.map133162925949247913 0
 165C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\bar.js133137118888535204 0
 115C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\caniuse-lite\data\regions\SM.js133137118900134181 0
 104C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\packager-svg133161036907456996 1
@@ -6012,7 +6014,7 @@
 138C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\workers\test\integration\workerfarm\console.js133137118888344291 0
 135C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\workers\test\integration\workerfarm\echo.js133137118889049658 0
 138C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\workers\test\integration\workerfarm\ipc-pid.js133137118889603645 0
-89C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle2.html133162922097424050 0
+89C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle2.html133162925949104219 0
 138C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\workers\test\integration\workerfarm\logging.js133137118889844779 0
 148C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\workers\test\integration\workerfarm\master-process-id.js133137118889944278 0
 141C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\workers\test\integration\workerfarm\master-sum.js133137118890063945 0
@@ -6421,7 +6423,6 @@
 158C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\main.js133137118892425246 0
 147C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\foo\bar.js133137118887597221 0
 153C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\foo\package.json133137118893529675 0
-99C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\portada1cp.efcc7ea1.svg133162922097424050 0
 158C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased-file\index.js133137118891065526 0
 162C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased-file\package.json133137118893529675 0
 151C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\foo133161036904232118 1
@@ -6633,7 +6634,7 @@
 128C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64133161036898351119 1
 143C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.napi.node133137118887484136 0
 141C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\package.json133137118883647272 0
-97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle6.1795c973.jpg133162922086362253 0
+97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle6.1795c973.jpg133162925931469932 0
 138C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\README.md133137118884776584 0
 108C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@mischnic\json-sourcemap133161036898211588 1
 121C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@lmdb\lmdb-win32-x64\node.abi102.node133137118887802251 0
@@ -6701,7 +6702,7 @@
 135C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@babel\highlight\node_modules\color-name\.npmignore133137118884272389 0
 133C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@babel\highlight\node_modules\color-name\index.js133137118886188829 0
 137C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@babel\highlight\node_modules\color-name\package.json133137118883361307 0
-93C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\Logo.7b806996.svg133162922090538658 0
+93C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\Logo.7b806996.svg133162925935843306 0
 134C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@babel\highlight\node_modules\color-name\README.md133137118885045705 0
 142C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@babel\highlight\node_modules\color-convert\conversions.js133137118885207304 0
 136C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@babel\highlight\node_modules\color-convert\index.js133137118885799206 0
@@ -6717,7 +6718,6 @@
 131C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@babel\helper-validator-identifier\package.json133137118887917538 0
 128C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@babel\helper-validator-identifier\README.md133137118884272389 0
 126C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@babel\helper-validator-identifier\scripts133161036895849808 1
-155C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@babel\helper-validator-identifier\scripts\generate-identifier-regex.js133137118888263144 0
 140C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@babel\helper-validator-identifier\lib\identifier.js.map133137118885902478 0
 131C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@babel\helper-validator-identifier\lib\index.js133137118886430101 0
 137C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\@babel\helper-validator-identifier\lib\keyword.js.map133137118887622073 0
@@ -6756,24 +6756,25 @@
 97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\.bin\svgo.ps1133137118905996016 0
 99C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\.bin\terser.ps1133137118905996016 0
 98C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\node_modules\.bin\which.cmd133137118905996016 0
-89C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle1.html133162922097424050 0
-98C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle22.0a467cbd.jpg133162922086362253 0
-106C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle22vertical.8ec9ecd5.jpg133162922094804504 0
-89C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle3.html133162922097424050 0
-97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle4.02bc30f2.jpg133162922086362253 0
-89C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle4.html133162922097424050 0
-105C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle4vertical.8608a123.jpg133162922094804504 0
-97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle5.fb3b98cf.jpg133162922096559614 0
-89C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle6.html133162922097424050 0
-105C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle6vertical.0c3fb0a4.jpg133162922094804504 0
-93C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.47ea5f0f.js133162922097548060 0
-97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.47ea5f0f.js.map133162922097712507 0
-94C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.4c7326b5.css133162922097424050 0
-94C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.937634fb.css133162922097424050 0
-94C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.af68a95b.css133162922097424050 0
-86C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.html133162922097424050 0
-94C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\Logo2.58b5e756.svg133162922090538658 0
-97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\portada1.f8c3215c.jpg133162922094804504 0
-97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\portada2.b32f7bdb.jpg133162922086362253 0
-97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\portada3.637f397d.jpg133162922089716781 0
-109C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\presentacionvertical.d4c2ddd7.jpg133162922096559614 0
+89C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle1.html133162925949092503 0
+98C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle22.0a467cbd.jpg133162925931469932 0
+106C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle22vertical.8ec9ecd5.jpg133162925940420984 0
+89C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle3.html133162925949105824 0
+97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle4.02bc30f2.jpg133162925931469932 0
+89C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle4.html133162925949105824 0
+105C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle4vertical.8608a123.jpg133162925940420984 0
+97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle5.fb3b98cf.jpg133162925948137765 0
+89C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle6.html133162925949105824 0
+105C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\detalle6vertical.0c3fb0a4.jpg133162925940420984 0
+93C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.47ea5f0f.js133162925949123058 0
+97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.47ea5f0f.js.map133162925949247913 0
+94C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.4c7326b5.css133162925949105824 0
+94C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.937634fb.css133162925949092503 0
+94C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.af68a95b.css133162925949105824 0
+86C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\index.html133162925949092503 0
+94C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\Logo2.58b5e756.svg133162925935843306 0
+97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\portada1.f8c3215c.jpg133162925940420984 0
+99C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\portada1cp.1c434b1c.png133162925948137765 0
+97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\portada2.b32f7bdb.jpg133162925931469932 0
+97C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\portada3.637f397d.jpg133162925935213838 0
+109C:\Users\e.alcaniz\Desktop\MASTER\3. Herramientas HTML y CSS\PEC1\PEC1\dist\presentacionvertical.d4c2ddd7.jpg133162925948137765 0
