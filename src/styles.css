@@ -133,7 +133,7 @@ footer ul li a:hover{
     width:4vw;
   }
   figcaption{
-    font-size: 16px;
+    font-size: 12px;
   }
   h1,h2{
     font-size: 30px;
@@ -234,17 +234,11 @@ footer ul li a:hover{
   transform: scale(1.2);
 }
    @media (max-width: 1000px) {
-    * {
-      font-size: 15px;
-    }
-    h1,h2{
-      font-size: 20px;
-    }
     header {
-      height:20vw;
+      height:25vw;
     }
     nav,header div object{
-      height:10vw;
+      height:15vw;
     }
     header div{
       top:5vw;
@@ -279,7 +273,7 @@ footer ul li a:hover{
   }
   @media (max-width: 600px) {
     * {
-      font-size: 10px;
+      font-size: 15px;
     }    
     footer div{
       top:1%;
