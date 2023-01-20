@@ -1,15 +1,16 @@
 <!doctype html>
 <html lang="es">
   <head>
-    <meta charset="utf-8"/>
+    <meta name="viewport" charset="utf-8"/>
     <title>My First Parcel App</title>
     <link rel="stylesheet" href="styles.css" />
+    <script type="text/javascript" src="https://unpkg.com/default-passive-events"></script>
     <script defer type="module" src="app.js"></script>
   </head>
   <body>
     <header>
       <div>
-        <object data="img/Logo.svg" type="image/svg+xml"></object>
+        <object data="img/Logo.svg" type="image/svg+xml" alt="logo"></object>
       </div>     
       <nav>
         <ul>
@@ -21,7 +22,7 @@
     </header>
     <main>
       <div>
-        <object data="img/animacion1.svg" type="image/svg+xml" id="animacion1"></object>
+        <object data="img/animacion1.svg" type="image/svg+xml" id="animacion1" alt="animacion"></object>
       </div>
                 <div>
           <h1>
@@ -43,14 +44,14 @@
         <div>
           <figure>
             <picture>
-              <source media="(max-width:600px" srcset="img/presentacionvertical.jpg">
-              <img src="img/presentacion.jpg"  loading="lazy">
+              <source media="(max-width:600px" srcset="img/presentacionvertical.webp">
+              <img src="img/presentacion.webp"  loading="lazy" alt="Imagen portada">
             </picture>
             <figcaption>Sean Penn en 2008.</figcaption>
           </figure>        
         </div>      
         <div>
-          <object id="logo2" data="img/Logo2.svg" type="image/svg+xml"></object>
+          <object id="logo2" data="img/Logo2.svg" type="image/svg+xml" alt="logo"></object>
         </div> 
       </main>
       <footer>

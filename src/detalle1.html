@@ -1,15 +1,16 @@
 <!doctype html>
 <html lang="es">
   <head>
-    <meta charset="utf-8"/>
+    <meta name="viewport" charset="utf-8"/>
     <title>My First Parcel App</title>
     <link rel="stylesheet" href="styles.css" />
+    <script type="text/javascript" src="https://unpkg.com/default-passive-events"></script>
     <script defer type="module" src="app.js"></script>
   </head>
   <body>
     <header>
       <div>
-        <object data="img/Logo.svg" type="image/svg+xml"></object>
+        <object data="img/Logo.svg" type="image/svg+xml" alt="logo"></object>
       </div>     
       <nav>
         <ul>
@@ -41,14 +42,14 @@
           <div>
             <figure>
             <picture>
-              <source media="(max-width:600px)" srcset="img/detalle1vertical.jpg">
-              <img src="img/detalle1.jpg" alt="Durante el Festival de Cannes, en 1997." loading="lazy">
+              <source media="(max-width:600px)" srcset="img/detalle1vertical.webp">
+              <img src="img/detalle1.webp" alt="Durante el Festival de Cannes, en 1997." loading="lazy">
             </picture>
             <figcaption>Durante el Festival de Cannes, en 1997.</figcaption> 
           </figure>       
           </div>  
           <div>
-            <object id="logo2" data="img/Logo2.svg" type="image/svg+xml"></object>
+            <object id="logo2" data="img/Logo2.svg" type="image/svg+xml" alt="logo"></object>
           </div> 
     </main>
     <footer>
