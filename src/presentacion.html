@@ -4,7 +4,7 @@
     <meta charset="utf-8"/>
     <title>My First Parcel App</title>
     <link rel="stylesheet" href="styles.css" />
-    <script type="module" src="app.js"></script>
+    <script defer type="module" src="app.js"></script>
   </head>
   <body>
     <header>
@@ -44,7 +44,7 @@
           <figure>
             <picture>
               <source media="(max-width:600px" srcset="img/presentacionvertical.jpg">
-              <img src="img/presentacion.jpg">
+              <img src="img/presentacion.jpg"  loading="lazy">
             </picture>
             <figcaption>Sean Penn en 2008.</figcaption>
           </figure>        
